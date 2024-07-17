@@ -1,0 +1,18 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.file-list {
+  width: 300px;
+}
+
+.file-item {
+  padding: 16px;
+  margin: 8px 0;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  text-align: center;
+  border-radius:
+}
